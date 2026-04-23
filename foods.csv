@@ -1,0 +1,21 @@
+food,category,calories,protein,carbs,fat
+rice,grain,130,2.7,28,0.3
+brown rice,grain,112,2.3,23,0.9
+egg,protein,155,13,1.1,11
+boiled egg,protein,155,13,1.1,11
+chicken breast,protein,165,31,0,3.6
+paneer,protein,265,18,1.2,20
+milk,dairy,42,3.4,5,1
+yogurt,dairy,59,10,3.6,0.4
+banana,fruit,89,1.1,23,0.3
+apple,fruit,52,0.3,14,0.2
+orange,fruit,47,0.9,12,0.1
+potato,vegetable,77,2,17,0.1
+sweet potato,vegetable,86,1.6,20,0.1
+dal,legume,116,9,20,0.4
+chana,legume,164,9,27,2.6
+roti,grain,120,3,22,1
+bread,grain,265,9,49,3.2
+oats,grain,389,17,66,7
+almonds,nuts,579,21,22,50
+peanut butter,nuts,588,25,20,50
