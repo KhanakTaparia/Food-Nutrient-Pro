@@ -5,8 +5,8 @@ names = ["Khanak", "Yash", "Admin"]
 usernames = ["Khanak", "Yash", "Admin"]
 passwords = ["2201", "3012", "1234"]
 
-# ---------- PROPER HASHING (FIXED METHOD) ----------
-hashed_passwords = stauth.Hasher(passwords=passwords).generate()
+# ---------- PROPER HASHING (UPDATED FOR VERSION 0.4.2) ----------
+hashed_passwords = stauth.Hasher().hash_passwords(passwords)
 
 # ---------- CREDENTIALS ----------
 credentials = {
